@@ -1,0 +1,16 @@
+.story{
+    display: flex;
+    height: 60px;
+    width: 100%;
+    align-items: center;
+    overflow-x: scroll;
+
+}
+
+.MuiAvatar-root{
+    
+    height: 40px !important;
+    width: 50px !important;
+    border: black;
+    margin-left: 10px;
+}

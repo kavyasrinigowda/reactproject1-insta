@@ -1,0 +1,33 @@
+.header{
+    display:flex;
+    height: 70px;
+    width:100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around ;
+}
+
+.search{
+    display: flex;
+    height:70px;
+    
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.icon{
+    height: 40px;
+    width:200px;
+    border: 1px solid #f8f8f8;
+    border-radius: 3px;
+    background-color: white; 
+}
+input{
+    outline-width: 0;
+    border:none;
+    background-color: transparent;
+}
+img{
+    height:50px;
+    object-fit: contain;
+}
